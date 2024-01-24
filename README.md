@@ -15,19 +15,24 @@ Azure AI Service <br>
 1. Azure AI Translator Service
 </h3>
 <h2>Problem Statement</h2>
-<p align="justify">In our increasingly more interconnected global, the need for seamless verbal exchange throughout language boundaries is extra important than ever. The assignment lies in offering a consumer-friendly platform wherein people can without difficulty translate content while maintaining a report in their interactions. The possibility is to create an green, scalable solution that addresses language translation desires and complements consumer revel in with the aid of incorporating recent search records.</p>
+<p align="justify">In a world characterized by diverse languages and cultures, effective communication is essential. However, language barriers often pose challenges in understanding and connecting with others. The need for seamless translation solutions has never been greater. The Translatify project aims to address this problem by providing a user-friendly and efficient translation platform.</p>
 <h2>Project Description</h2>
-<p align="justify">The "Multilingual Content Hub - VOX" is a web application designed to facilitate language translation and maintain a history of person interactions. Users can enter text, and the gadget leverages Azure AI Translator service to provide accurate and contextually relevant translations. The software additionally consists of a characteristic to show recent searches, allowing users to revisit and reuse previous translations easily.</p><br>
+<p align="justify">Translatify is a comprehensive translation platform designed to bridge language gaps and enhance global communication.
+The platform will support translations between multiple languages, catering to a diverse user base.</p><br>
 <b>Key Features :</b>
 <ul>
-    <li>Seamless Language Translation</li>
     <li>User-Friendly Interface</li>
-    <li>History Tracking and Recent Searches</li>
+    <li>Language Support</li>
+    <li>Translation Accuracy</li>
+    <li>Recent Search History</li>
     <li>Azure App Service Hosting</li>
     <li>Azure SQL Database for Efficient Data Management</li>
 </ul>
 <b>Future Enhancements :</b><br>
-<p align="justify">The Multilingual Content Hub isn't only a standalone venture but a foundation for ability future enhancements. Integrations with additional Azure offerings, which includes Azure Storage for coping with multimedia content and Azure Key Vault for more suitable security, could be explored. Moreover, monitoring and analytics via Azure Monitor and Azure Application Insights pave the manner for continuous improvement and optimization.</p>
+<p align="justify">Implementation of a user authentication system for personalized features.
+Integration of voice translation capabilities.
+Collaboration features for document translation with multiple contributors.
+Mobile applications for iOS and Android platforms.</p>
 <h2>Core Azure Services</h2>
 <b>Azure App Service :</b><br><p align="justify"><br>The project utilizes Azure App Service to host the web application, ensuring scalability, reliability, and ease of deployment. This service enables seamless integration with other Azure components and provides a secure environment for the application.</p>
 
