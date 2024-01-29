@@ -65,8 +65,7 @@ Mobile applications for iOS and Android platforms.</p>
 
 <h2>Final Project Statement</h2>
 <p align="justify">
-The Multilingual Content Hub redefines language connectivity by using seamlessly merging generation and linguistic finesse. This task, empowered by means of Azure's sturdy infrastructure, not most effective tackles language barriers however envisions a destiny wherein verbal exchange transcends borders.</p>
-<p align="justify">
-<b>As we finish, the Multilingual Content Hub isn't always just an utility; it's an ongoing exploration of endless communication possibilities. In this era of worldwide connectivity, this undertaking signifies a pivotal step toward a greater accessible and interconnected international.</b>
-</p> <br>
+    Translatify is not just a translation tool but a gateway to a more connected and inclusive world. By addressing language barriers, it empowers users to communicate seamlessly, breaking down the walls created by different languages and cultures.
+</p>
+
 </h2><b><a href="https://text-translation.azurewebsites.net/">Translatify Translation Web App using Azure AI Translation Service.</b></a>
